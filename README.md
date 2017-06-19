@@ -1,6 +1,11 @@
 Trabalho de Sistemas Distribuídos
 =================================
 
+Esse trabalho implemente um sistema de chat, composto de dois programas:
+
+- o server recebe mensagens e as redireciona aos clients;
+- o client permite ao usuário enviar mensagens ao server e recebe notificações do server quando outros cliente enviam mensagens.
+
 # Para executar:
 
 - Instale o python 3
